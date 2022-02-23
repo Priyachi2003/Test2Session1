@@ -1,1 +1,8 @@
-
+gcc -g p1original.c -lm
+ ./a.out
+enter four numbers
+4
+9
+4
+3
+distance between two points (4.000000 9.000000) and (4.000000,3.000000) is 6.000000 
